@@ -1,7 +1,13 @@
-Task 3 - Data Science Level 1: 
-Here you are required to write the code base necessary to do data analysis and produce a machine learning model to perform topic modelling and sentiment analysis.
+# Topic modelling and Sentiment analysis
+## Task 3 - Data Science Level 1
+### 10 Accademy intensive challenge week `(Date: 21,June,2021 - 25,June,2021)`
 
-You are required to write the following modules at the minimum:
-
-* Data exploration and pre-processing: the codes you fixed at step 1 are the modules you will extend to perform data reading, pre-processing and data exploration and visualisations
-* Topic modelling and sentiment analysis: write a code using scikit-learn, Gensim, or other packages and APIs to model the topics discussed in the tweets and their sentiments. You may use word clouds, k-mean clustering, etc. as a simple model for topic modelling. 
+#### What I did
+  `-` Editing the code base to do data analysis and produce a machine learning model to perform topic modelling and sentiment analysis.
+  
+  `-` Data exploration and pre-processing
+ 
+ `-` Topic modelling and sentiment analysis
+ 
+      * using scikit-learn, Gensim, to model the topics discussed in the tweets and their sentiments.
+      * useing word clouds, k-mean clustering, etc. as a simple model for topic modelling. 
